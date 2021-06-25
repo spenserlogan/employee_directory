@@ -52,9 +52,6 @@ const EmployeesTable = ({filteredEmployees, setFilteredEmployees, search}) => {
             {filteredEmployees 
             .filter(employee => employee.name.first.toUpperCase().includes(search.toUpperCase()) || employee.name.last.toUpperCase().includes(search.toUpperCase()))
             .map(employee => {
-               // const { first, last } = employee.name;
-               // const fullName = `${first} ${last}`;
-
                return(
                   <tr key = {employee.login.uuid}>
                      <th scope = "row">
