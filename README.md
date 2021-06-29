@@ -1,6 +1,7 @@
 # employee_directory
 
 ## Description
+![](IMG/screenshot.png)
 This react application is a employee directory that allows the user to sort through the employees provides by the randomuser.me API.
 
 ## Installation
