@@ -12,3 +12,4 @@ To install this application run npm install in your terminal.
 -View deployed app on GitHub Pages.
 
 ## Application 
+https://github.com/spenserlogan/employee_directory/settings/pages
